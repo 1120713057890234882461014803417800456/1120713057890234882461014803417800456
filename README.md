@@ -17,5 +17,5 @@ Hello, I'm CIA. 👋
 ```
 **Skills/Learning**:
 ```asm
-• Python , HTML/CSS , Javascript
+• Python , HTML/CSS , Javascript , SQL
 ```
