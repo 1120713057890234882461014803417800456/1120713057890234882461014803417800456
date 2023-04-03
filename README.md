@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="left" height="425" src="https://avatars.githubusercontent.com/u/129712756?v=4"/>
 
-<!--
-**1120713057890234882461014803417800456/1120713057890234882461014803417800456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```asm
+Hello, I'm CIA. 👋
+```
+**About Me**:
+```asm
+• Self-Taught Developer
+```
+**Projects**:
+```asm
+• Glory - Discord Bot
+
+• gAPI - API for Discord utilities
+```
+**Skills/Learning**:
+```asm
+• Python , HTML/CSS , Javascript
+```
