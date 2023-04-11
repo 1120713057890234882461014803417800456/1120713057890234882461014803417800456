@@ -19,3 +19,4 @@ Hello, I'm CIA. 👋
 ```asm
 • Python , HTML/CSS , Javascript , SQL
 ```
+[![Discord Presence](https://lanyard.cnrad.dev/api/934885067107483728)](https://discord.com/users/934885067107483728)
