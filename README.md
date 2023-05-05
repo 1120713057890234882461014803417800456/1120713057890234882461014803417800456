@@ -14,6 +14,6 @@
 ```
 **Skills/Learning**:
 ```asm
-• Python , HTML/CSS , Javascript , SQL
+• Python , GoLang,  HTML/CSS , Javascript , SQL
 ```
 
